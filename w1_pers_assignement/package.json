@@ -1,5 +1,5 @@
 {
-    "name": "cse341-fall23",
+    "name": "w1_pers_assignement",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -7,17 +7,9 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/SokanRed/cse341-fall23.git"
-    },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/SokanRed/cse341-fall23/issues"
-    },
-    "homepage": "https://github.com/SokanRed/cse341-fall23#readme",
     "dependencies": {
         "express": "^4.18.2"
     }
